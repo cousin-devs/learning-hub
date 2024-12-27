@@ -9,19 +9,4 @@ pnpm-debug.log*
 # Dependency directories
 node_modules/
 
-# Production build
-
-# Build outputs
-
-# TypeScript
-
-# Tailwind and PostCSS
-
-# Environment variables
-# Next.js
-
-# IDE and editor files
-
-# Other
-coverage/
 
