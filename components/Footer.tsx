@@ -14,7 +14,7 @@ export default function Footer() {
             href="https://docs.google.com/forms/d/e/your-google-form-id/viewform" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="bg-white text-green-800 hover:bg-green-100"
+            className="bg-green-800 text-white hover:bg-green-900 hover:scale-105 transition-all duration-300 ease-in-out rounded-md px-4 py-2"
           >
             Contact Us / Join as Mentor
           </a>
